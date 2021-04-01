@@ -14,7 +14,7 @@ This code show four hash is h4 title.
 ##### JS (custom.js)
 This code show five hash is h5 title.
 
-###### Setup Database Connection (database.class.php)
+##### Setup Database Connection (database.class.php)
 This code show six hash is h6 title.
 
 ###### Data Submission (submit.php)

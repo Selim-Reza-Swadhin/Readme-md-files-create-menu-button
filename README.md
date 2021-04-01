@@ -47,7 +47,7 @@ This code show five hash is h5 title.
 ###### Setup Database Connection (database.class.php)
 This code show six hash is h6 title.
 
-###### Data Submission (submit.php)
+##### Data Submission (submit.php)
 This code show seven hash is h6 title.
 
 ###### Setup Database Connection (database.class.php)
