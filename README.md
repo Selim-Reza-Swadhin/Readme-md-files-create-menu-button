@@ -13,10 +13,13 @@ This code show three hash is h3 title.
 This code show four hash is h4 title.
 
 ##### JS (custom.js)
+This code show five hash is h5 title.
 
 ###### Setup Database Connection (database.class.php)
+This code show six hash is h6 title.
 
-### Data Submission (submit.php)
+####### Data Submission (submit.php)
+This code show seven hash is h7 title.
 
 ### Data Insertion and Validation (subscriber.class.php)
 
