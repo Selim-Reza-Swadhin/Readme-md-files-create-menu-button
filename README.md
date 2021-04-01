@@ -5,9 +5,9 @@ This code show one hash is h1 title and this line is paragraph.
 Don't Mind Every body
 
 # Headers
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+# This is an h1 tag
+## This is an h2 tag
+###### This is an h6 tag
 
 
 # Emphasis
