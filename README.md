@@ -23,16 +23,16 @@ _You **can** combine them_
 # Lists
 ## Unordered
 
-* Item 1
+* Hey, Amake unorder list hisabe use koro
 * Item 2
-  * Item 2a
+  * Hey, Amake sub unorder list hisabe use koro
   * Item 2b
   
 ## Ordered
-1. Item 1
+1. Hey, Amake order list hisabe use koro
 1. Item 2
 1. Item 3
-   1. Item 3a
+   1. Hey, Amake sub order list hisabe use koro
    1. Item 3b
    
 learn more...   https://guides.github.com/features/mastering-markdown/
