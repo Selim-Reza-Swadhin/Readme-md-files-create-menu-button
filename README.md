@@ -4,8 +4,39 @@ This code show one hash is h1 title and this line is paragraph.
 ## Just Fun For Github hash Tags
 Don't Mind Every body
 
-# Subscriber Features
-This code show you how to create a subscriber function in php and mysql.
+# Headers
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
+
+
+# Emphasis
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
+
+
+# Lists
+## Unordered
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+  
+## Ordered
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+   
+learn more...   https://guides.github.com/features/mastering-markdown/
+
 
 ## First create a table
 This code show two hash is h2 title.
